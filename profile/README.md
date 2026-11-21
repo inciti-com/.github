@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<h3 align="center">Análisis y datos del mercado inmobiliario en Chile</h3>
+<h3 align="center">Análisis y datos del mercado inmobiliario en LATAM</h3>
 
 <p align="center">
   <a href="https://www.inciti.com">Sitio web</a> ·
@@ -18,7 +18,7 @@
 
 ---
 
-Inciti reúne en un solo lugar la información que mueve al mercado inmobiliario chileno: transacciones, publicaciones, propiedades, territorio y personas. La entregamos de dos formas.
+Inciti reúne en un solo lugar la información que mueve al mercado inmobiliario: transacciones, publicaciones, propiedades, territorio y personas. La entregamos de dos formas.
 
 **Plataforma** — para equipos comerciales, de inversión y de estudios que necesitan responder rápido cuánto vale una propiedad, qué pasa en una zona o quién es el dueño.
 
